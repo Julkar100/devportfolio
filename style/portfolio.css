@@ -19,7 +19,7 @@ section {
 nav {
     justify-content: space-between;
     display: flex;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 nav li {
